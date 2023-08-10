@@ -38,3 +38,25 @@ To run this project locally and explore the Apple Vision Goggles clone website, 
 
    ```bash
    git clone https://github.com/kenliii/apple-vision-goggles-clone.git
+
+##Usage
+
+Once you have the website open in your browser, you can navigate through its pages, interact with the elements, and explore the design of the Apple Vision Goggles concept. The website consists of several sections, including the homepage, product details, features, and more.
+
+Feel free to customize the website by modifying the HTML, CSS, and JavaScript files according to your preferences. This project is intended as a starting point for learning web development and experimenting with design concepts.
+
+##Contributing
+
+Contributions to enhance the project's features, fix issues, or improve its design are welcome! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or fix: git checkout -b feature-name.
+Make your changes and commit them with descriptive commit messages.
+Push your changes to your fork: git push origin feature-name.
+Open a pull request on the main repository.
+
+##Disclaimer: This project is not affiliated with or endorsed by Apple Inc. It is a purely fictional concept for educational purposes, aiming to replicate Apple's design style. All product names, logos, and images are used for demonstrative purposes only.
+
+Feel free to explore, learn, and have fun with the Apple Vision Goggles Website Clone! If you have any questions or suggestions, don't hesitate to reach out.
+
+
